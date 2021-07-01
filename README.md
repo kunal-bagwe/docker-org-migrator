@@ -1,6 +1,4 @@
 # docker-org-migrator
-
-# docker-org-migrator
 ## Usage
 ### Using Help Command:
 
